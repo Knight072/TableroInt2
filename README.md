@@ -60,19 +60,8 @@ Para ejecutar la aplicación localmente:
 - Usa el ratón para dibujar en el lienzo en el frontend.
 - Los cambios se transmitirán en tiempo real a todos los clientes conectados a través de WebSocket.
 
-### Contribuciones
+### Despliegue AWS
 
-¡Se aceptan contribuciones para mejorar la aplicación o corregir problemas! Haz un fork del repositorio y envía un pull request con tus cambios.
-
-### Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
-
-### Contacto
-
-Para cualquier pregunta o comentario, por favor contacta a [Tu Nombre](mailto:tu-email@example.com).
+![image](https://github.com/Knight072/TableroInt2/assets/116401447/66577cba-68b8-4e03-a3a7-f89f16866639)
 
 ---
-
-Este README proporciona una visión clara de la arquitectura del proyecto, cómo configurarlo localmente, las tecnologías utilizadas y fomenta las contribuciones. Puedes personalizar las secciones basadas en los detalles específicos y tus preferencias de proyecto.
-
