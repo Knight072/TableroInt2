@@ -39,6 +39,9 @@ Para ejecutar la aplicación localmente:
    - Abre `index.html` en un navegador web moderno.
    - El frontend se conectará al servicio WebSocket del backend que corre en `ws://localhost:8080/bbService`.
 
+![image](https://github.com/Knight072/TableroInt2/assets/116401447/cd57c478-9b8a-4317-ac71-ad98c96c6bcc)
+
+
 ### Tecnologías Utilizadas
 
 - **Backend**:
