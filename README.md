@@ -16,7 +16,7 @@ El backend está desarrollado con Spring Boot y la API Java WebSocket. Incluye l
 
 - **DrawingServiceController**: Controlador REST que proporciona un endpoint de estado (`/status`) con información básica del servidor.
 
-#### Frontend
+#### Frontend 
 
 El frontend está implementado con React y P5.js para capacidades de dibujo. Incluye los siguientes componentes:
 
