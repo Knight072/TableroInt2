@@ -62,6 +62,8 @@ Para ejecutar la aplicación localmente:
 
 ### Despliegue AWS
 
+http://ec2-18-212-91-147.compute-1.amazonaws.com:8080/
+
 ![image](https://github.com/Knight072/TableroInt2/assets/116401447/66577cba-68b8-4e03-a3a7-f89f16866639)
 
 ---
